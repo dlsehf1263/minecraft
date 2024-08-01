@@ -1,14 +1,2 @@
 
-AmbientSounds_FORGE_v6.0.3_mc1.20.1.jar 
-Apollyon v1.1.1 (Forge 1.20.1).jar 
-cave_prowler-1.1.jar 
-CreativeCore_FORGE_v2.11.33_mc1.20.1.jar 
-EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar 
-geckolib-forge-1.20.1-4.4.7.jar 
-gravestone-forge-1.20.1-1.0.17.jar 
-notdeer-1.3.jar 
-sound-physics-remastered-forge-1.20.1-1.4.5.jar 
-The-Man-From-The-Fog-1.3.1-1.20.1.jar 
-the_silence-0.2 patch 2.0 Fixed - CENSORED ver.jar 
-voicechat-forge-1.20.1-2.5.19.jar 
-yesstevemodel-1.20-release-1.1.5-hotfix-2.jar 
+bukkit.jar 
