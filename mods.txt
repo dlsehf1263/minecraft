@@ -3,6 +3,7 @@
 @CreativeCore_FORGE_v2.11.33_mc1.20.1.jar 
 @EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar 
 @geckolib-forge-1.20.1-4.4.7.jar 
+@OptiFine_1.20.1_HD_U_I6.jar 
 @sound-physics-remastered-forge-1.20.1-1.4.5.jar 
 @voicechat-forge-1.20.1-2.5.19.jar 
 @yesstevemodel-1.20-release-1.1.5-hotfix-2.jar 
