@@ -13,7 +13,7 @@ REM 재귀적으로 폴더 항목을 JSON 형식으로 기록하는 함수
 call :processFolder "%folder_path%"
 
 REM JSON 파일 종료
-echo ".":[] >> "%output_file%"
+echo "/":[] >> "%output_file%"
 echo } >> "%output_file%"
 
 echo JSON 파일이 생성되었습니다: %output_file%
