@@ -1,5 +1,6 @@
 { 
-"~1": [["optionsshaders.txt",379]], 
+"": [["optionsshaders.txt",379]], 
 "mods": [["@AmbientSounds_FORGE_v6.0.3_mc1.20.1.jar",85328184], ["@CreativeCore_FORGE_v2.11.33_mc1.20.1.jar",1114431], ["@EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar",4726281], ["@geckolib-forge-1.20.1-4.4.7.jar",991110], ["@OptiFine_1.20.1_HD_U_I6.jar",7145205], ["@sound-physics-remastered-forge-1.20.1-1.4.5.jar",196564], ["@voicechat-forge-1.20.1-2.5.19.jar",7711367], ["@yesstevemodel-1.20-release-1.1.5-hotfix-2.jar",697756], ["Apollyon v1.1.1 (Forge 1.20.1).jar",9909815], ["cannibal-1.0.5-1.20.1.jar",1118585], ["gravestone-forge-1.20.1-1.0.17.jar",314780], ["notdeer-1.3.jar",695048], ["nyfsspiders-forge-1.20.1-2.1.1.jar",178046], ["The-Man-From-The-Fog-1.3.1-1.20.1.jar",7920564]], 
+"shaderpacks": [["BSL_v8.2.09.zip",954784]], 
 "/":[] 
 } 
