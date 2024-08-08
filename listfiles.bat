@@ -62,7 +62,7 @@ for /f "delims=" %%d in ('dir /b /ad "%~1"') do (
     REM !current_path! 대신 %~1을 직접 사용하는 이유는,
     REM current_path는 함수가 호출될 때마다 그 호출 스택에 맞게 하나가 생성되는 게 아니라 하나만 생성되고 계속 돌려 쓰게된다.
     REM 재귀 호출이 끝나고 다시 이 함수로 돌아왔을 때 원래의 값은 찾을 수 없게 되기 때문이다.
-    call :processFolder "%~1\%%d"
+    call :processFolder "%~1/%%d"
 )
 
 exit /b
